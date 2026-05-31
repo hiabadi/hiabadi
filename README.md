@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Halo, Saya WenzDuxx
+# 👋 Halo, Saya Haris Ihsan Abadi
 
 ### Full-Stack Engineer · AI Product Builder · Web GIS & EdTech Enthusiast
 
