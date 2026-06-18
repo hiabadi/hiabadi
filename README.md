@@ -1,220 +1,193 @@
 <div align="center">
 
-# 👋 Halo, Saya Haris Ihsan Abadi
+# 👋 Hi, I'm Haris Ihsan Abadi
 
-### Full-Stack Engineer · AI Product Builder · Web GIS & EdTech Enthusiast
+### Full-Stack Engineer · AI Product Builder
 
-_Membangun produk yang menggabungkan **AI**, **data**, dan **desain editorial** untuk domain pendidikan, perpustakaan, pertanian presisi, dan portofolio digital._
+_I ship production web products that fuse **full-stack architecture**, **guardrailed AI**, and **editorial-grade UX** — across EdTech, FinTech, AgriTech/GIS, marketplaces, and knowledge systems._
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-haris.emailtugas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haris.emailtugas@gmail.com)
-[![Stack](https://img.shields.io/badge/Stack-Full--Stack%20%2B%20AI-7B61FF?style=flat-square)]()
-[![Region](https://img.shields.io/badge/Region-Indonesia-FF4B4B?style=flat-square)]()
+[![Stack](https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-7B61FF?style=flat-square)]()
+[![Region](https://img.shields.io/badge/Region-Indonesia%20🇮🇩-FF4B4B?style=flat-square)]()
+[![Approach](https://img.shields.io/badge/Approach-Ship%20Products-2EA043?style=flat-square)]()
 
 </div>
 
 ---
 
-## 🧠 Filosofi Engineering
+## 🧠 Engineering Philosophy
 
-> **Ship product, bukan tutorial.** Setiap repo di bawah ini adalah produk nyata — bukan boilerplate. Saya fokus pada **arsitektur yang masuk akal**, **AI yang punya guardrail** (RAG + multi-provider fallback, bukan halusinasi mentah), dan **UX yang tidak terasa di-generate**.
+> **Ship products, not boilerplate.** Every repository below is a real, production-shaped system. I optimize for **architecture that makes sense**, **AI with guardrails** (RAG grounding + multi-provider fallback, never raw hallucination), and **interfaces that don't feel auto-generated**.
 
 ```
-domain expertise → AI augmentation → production hardening → editorial polish
+domain modeling → AI augmentation → production hardening → editorial polish
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend
-
+**Frontend**
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP_3-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-### Backend
-
+**Backend & Realtime**
 ![Node.js](https://img.shields.io/badge/Node.js_20-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express_4-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_5-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_5%2F6-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io_4-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Database & Infrastructure
-
+**Data & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### AI / LLM
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A373?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+**AI / LLM**
+![Anthropic](https://img.shields.io/badge/Claude-D4A373?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--5.5-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square)
 
 ---
 
-## 📦 Project Portfolio
+## 📦 Featured Work
 
-### 1. 🎓 **ExamHub** — Web Ujian Aman & Pintar
+### 🎓 ExamHub — Secure, AI-Assisted Online Exams
+`EdTech · Online Assessment`
+> Full-stack exam platform with AI question generation, real-time anti-cheat telemetry, and multi-role portals — delivered as one deploy-friendly monolith.
+- **Stack:** React 19 · TypeScript · Express 4 · Prisma 5 · PostgreSQL 16 · Socket.IO 4 · Google Gemini
+- **Highlights:** monolith (Express serves the Vite build, HMR middleware in dev) · AI MCQ generator + grammar/distractor polish · live monitoring with **9 configurable anti-cheat signals** · JWT + httpOnly auth · auto-grading + audit logs · DOCX/PDF ingestion · **9 Prisma models**
 
-> Platform ujian online full-stack dengan **AI question generator**, **live anti-cheat monitoring**, dan **real-time WebSocket telemetry**.
+### 📚 PerpusAI — AI-Powered Digital Library
+`AI Knowledge · RAG`
+> A research assistant, digital reading room, and library-management system in one — RAG-grounded so the AI cites real holdings, not hallucinations.
+- **Stack:** React 19 · Express 4 · Prisma 5 · PostgreSQL/Supabase · Pinecone · Midtrans · node-cron
+- **Highlights:** **5-provider LLM fallback chain** (Groq → Claude/GPT/Gemini/DeepSeek) · keyword + Pinecone RAG · slash commands (`/rangkum`, `/sitasi`, `/kuis`…) · integrated chapter + PDF reader with highlights & "Ask AI" · citation engine (APA/IEEE/BibTeX/RIS/CSV) · report generator → DOCX/PDF · signature-verified Midtrans webhooks · cron-driven overdue/fine/reminder jobs · **18 Prisma models**
 
-| Layer      | Stack                                                                     |
-| ---------- | ------------------------------------------------------------------------- |
-| Frontend   | React 19 · TypeScript · Vite 6 · TailwindCSS 4 · Recharts · Motion        |
-| Backend    | Express 4 · Node 20 · TypeScript · Zod · JWT + bcrypt                     |
-| Realtime   | Socket.io 4 (room: `exam:{id}`, `monitor:{id}`, `student:{uid}`)          |
-| Database   | PostgreSQL 14 · Prisma 5 (9 model: User/Exam/Question/Session/CheatLog/…) |
-| AI         | Google Gemini 3.5 Flash — auto-generate MCQ + Question Polish             |
-| Arsitektur | **Monolith** — Express serve React build, Vite HMR middleware saat dev    |
+### 🎫 TemuJasa — Technical & Creative Services Marketplace
+`Marketplace · Escrow · AI`
+> Connects clients with IoT, software, data/AI, and creative experts — AI drafts the brief, escrow protects the funds, progress streams live.
+- **Stack:** React 19 · Express 4 (TS) · Prisma 6 · PostgreSQL 16 · Socket.IO 4 · Groq + OpenRouter
+- **Highlights:** ledger-backed **escrow state machine** (`UNPAID → PAID_ESCROW → RELEASED/REFUNDED`) · AI consultation → brief + milestones · real-time queue/progress/chat · RBAC (Client/Provider/Admin) · **AES-256-GCM PII encryption** + audit logs (UU PDP-aligned) · dispute arbitration · Helmet + rate-limit + Zod · gateway-ready (Midtrans/Xendit) · **14 Prisma models**
 
-**Modul Inti:** Dashboard Pendidik · ExamMaker AI · Live Monitoring · 9 parameter anti-cheat per ujian · Audit log · Auto-grading · Multi-role (Teacher / Student / Admin).
+### 🌾 SawahScan AI — Web GIS for Rice-Field Health
+`AgriTech · Web GIS`
+> Turns complex multispectral drone analytics (RGB / YOLO / NDVI) into a clean dashboard, interactive map, and actionable field diagnostics.
+- **Stack:** React 19 · Express 4 (TS) · Prisma 5 · PostgreSQL 16 · Leaflet + OpenStreetMap · Docker Compose
+- **Highlights:** **3-service Docker Compose** (db/backend/frontend) with persistent volumes + auto-migrate · Leaflet sector mapping · per-scan multispectral galleries · Zustand + TanStack Query · Gemini insight layer · JWT + bcrypt · GSAP + Lenis smooth-scroll UI
 
----
+### 💰 Saku — Smart Personal Finance
+`FinTech · Personal Finance`
+> Master your money from one minimalist dashboard — accounts, transactions, budgets, savings goals, and an AI advisor grounded in your real data.
+- **Stack:** React 19 · TypeScript · Vite 6 · Tailwind v4 · TanStack Query · Supabase (Postgres + RLS) · Edge Functions
+- **Highlights:** **atomic** internal transfers · budget & savings tracking · Recharts analytics · Saku AI advisor via OpenRouter gateway · Row-Level Security + AES-256 · **unit-tested** finance aggregation · dark mode, fully responsive
 
-### 2. 📚 **PerpusAI** — AI-Powered Digital Library Ecosystem
+### 📲 UniPortal — Smart Campus Attendance
+`Campus SaaS · Attendance`
+> Replaces paper roll-call with time-limited QR check-ins, real-time tracking, and live analytics keeping students, lecturers, and admins in sync.
+- **Stack:** React 18 · TypeScript · Vite 6 · Tailwind v4 · Firebase (Auth + Firestore + Cloud Functions) · Recharts
+- **Highlights:** time-bound **QR sessions** (no student accounts needed) · Firestore real-time listeners · **4-role RBAC** (Admin/Lecturer/Student/Public) · bulk CSV/Excel import (Papa Parse, SheetJS) · calendar heatmap + KPI cards · PDF/Excel export (jsPDF, html2canvas) · ⌘K command palette · WebGL landing (OGL)
 
-> Ekosistem perpustakaan AI dengan **RAG anti-halusinasi**, **multi-provider LLM fallback chain**, dan **sistem subscription Midtrans**.
-
-| Sub-Project                    | Stack & Karakter                                                                                                                                             |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Smart Library AI – Groq** ⭐ | _Flagship._ Node + Express + Prisma + Postgres · Groq default → Claude/GPT/Gemini/DeepSeek fallback · Supabase Storage · Midtrans Snap · node-cron scheduler |
-| **Smart Library AI**           | Varian Pinecone — vector DB eksternal · Gemini primary                                                                                                       |
-| **perpusai-build**             | Frontend-only SPA · Claude opsional · Fallback mode offline · Citation generator (APA/IEEE/BibTeX)                                                           |
-| **titik-baca-project**         | PWA offline-first untuk **Raspberry Pi** sebagai WiFi AP komunitas · PHP 8 + MariaDB · EPUB/PDF/MP3/MP4/CBZ reader · IndexedDB                               |
-
-**AI Tools terintegrasi:** `/rangkum` · `/sitasi` · `/bandingkan` · `/kuis` · `/jelaskan` · `/terjemah` · Report Generator → DOCX/PDF.
-
----
-
-### 3. 🌾 **SawahScan AI** — Web GIS Pemantauan Sawah
-
-> Platform GIS untuk monitoring kesehatan padi dari **citra drone multispektral** (RGB + YOLO + NDVI Red/NIR).
-
-| Komponen   | Detail                                                                                 |
-| ---------- | -------------------------------------------------------------------------------------- |
-| Backend    | Node 20 · Express 4 · TypeScript · Prisma · JWT                                        |
-| Frontend   | React 19 · Vite 6 · Tailwind 4 · Leaflet + OpenStreetMap · GSAP + Lenis                |
-| AI         | Pipeline eksternal (Kaggle/YOLO/NDVI) + Google Gemini untuk insight                    |
-| Database   | PostgreSQL 16                                                                          |
-| Deployment | **Docker Compose** — 3 service (db/backend/frontend) · volume persisten · auto-migrate |
-
-```
-┌──────────┐    ┌──────────┐    ┌──────────┐
-  frontend  ───▶ backend  ───▶   db
-   :3000          :8000           :5432
-└──────────┘    └──────────┘    └──────────┘
-              sawahscan_net (bridge)
-```
-
-**Fitur:** Dashboard agregat · Map interaktif per sektor · 4 jenis citra per upload · Diagnostik historis · Export CSV/JSON.
+### 🎨 Dark Portfolio — Cinematic, CMS-Driven Landing
+`Creative · WebGL`
+> A portfolio that reads like a magazine and animates like a product launch — fully editable from a built-in back office with live preview.
+- **Stack:** React 19 · TypeScript · Vite 6 · Tailwind v4 · Three.js (react-three-fiber) + OGL · GSAP · Framer Motion · Supabase Realtime
+- **Highlights:** live **WebGL aurora** background · GSAP + Motion scroll choreography · glassmorphism + crossfaded ambient audio · built-in CMS at `/bts-porto` with live-preview iframe · Supabase Realtime instant re-render · HLS streaming · Vercel Analytics + Speed Insights
 
 ---
 
-### 4. 🎫 **UniPortal** — Web Absensi Pintar Kampus
+## 🏗️ How I Build
 
-> Sistem absensi universitas berbasis **QR sesi waktu-terbatas** dengan analitik lengkap & RBAC.
+- 🔌 **Vendor-agnostic AI** — provider abstraction with a fallback chain (Groq → Claude → GPT → Gemini → DeepSeek), so no single outage or price change breaks the product.
+- 🛡️ **Guardrail-first AI** — keyword/Pinecone RAG retrieval *before* hitting the LLM; answers stay grounded in real data.
+- ⚡ **Real-time by default** — Socket.IO rooms (`exam:{id}`, `project:{id}`) and Firestore listeners for live monitoring, queues, and chat.
+- 🔒 **Production hardening** — JWT httpOnly cookies, bcrypt, AES-256-GCM PII, Row-Level Security, Helmet, rate-limiting, Zod validation, audit logs, idempotent webhooks.
+- 🧱 **Pragmatic deploys** — TypeScript monolith (Express + Vite middleware) for solo/small-team velocity; Docker Compose for reproducible/VPS; Vercel + Firebase serverless.
+- 🎯 **Domain modeling** — ledgers and explicit state machines (escrow), strongly-typed schemas end-to-end with Prisma.
 
-| Varian                | Stack                                                                                                |
-| --------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Advanced Ver.1**    | React 18 + Vite 6 · React Router 7 · GSAP · OGL WebGL · Recharts · jsPDF · SheetJS · Cloud Functions |
-| **Firebase_BE Ver.1** | Next.js 16 (App Router) · React 19 · Framer Motion · SSR-first                                       |
+### Reference Architecture
 
-**Backend:** Firebase Auth + Cloud Firestore · **RBAC:** Admin / Lecturer / Public / Student.
-
-**Fitur:** QR check-in time-bound · Bulk CSV/Excel import · Calendar heatmap · KPI cards · Distribusi per jurusan · Export PDF/Excel · ⌘K command palette · WebGL landing.
-
----
-
-### 5. 🎨 **Portfolio Sites** — Editorial & Cinematic Web
-
-> Dua portofolio personal dengan pendekatan desain berbeda, keduanya **Supabase-backed CMS** + back-office terkustom.
-
-| Project                         | Vibe & Tech Highlights                                                                                                                      |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **atelier-nocturne**            | Editorial · charcoal + gold · Noto Serif + Manrope · React 19 + Motion · admin `/atelier-studio`                                            |
-| **dark-portfolio-landing-page** | Cinematic · WebGL aurora (Three.js + @react-three/fiber + OGL) · GSAP timelines · HLS streaming · ambient audio engine · admin `/bts-porto` |
-
-Keduanya: Vercel deploy · Supabase Postgres + Auth + Storage + Realtime · live preview iframe untuk back-office.
-
----
-
-## 🏗️ Arsitektur yang Saya Gunakan
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  CLIENT  React 19 / Next.js · TypeScript · Tailwind v4      │
-│          GSAP · Motion · Three.js · Lenis · shadcn-style    │
-└──────────────────────────┬──────────────────────────────────┘
-                           │  REST + WebSocket (Socket.io)
-┌──────────────────────────▼──────────────────────────────────┐
-│  API     Express 4 / Next.js Route Handlers · Zod · JWT     │
-│          bcrypt · Helmet · Rate-limit · node-cron           │
-└──────────────────────────┬──────────────────────────────────┘
-                           │  Prisma 5  /  Firebase SDK
-┌──────────────────────────▼──────────────────────────────────┐
-│  DATA    PostgreSQL · Firestore · MariaDB · Supabase        │
-│  STORE   Supabase Storage · local fs · IndexedDB (PWA)      │
-└──────────────────────────┬──────────────────────────────────┘
-                           │
-┌──────────────────────────▼──────────────────────────────────┐
-│  AI      Groq · Claude · GPT-4 · Gemini · DeepSeek          │
-│  LAYER   Multi-provider fallback · Keyword/Pinecone RAG     │
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    subgraph C["🖥️ Client"]
+        c1["React 19 / 18 · TypeScript · Vite 6 · Tailwind v4<br/>GSAP · Framer Motion · Three.js / OGL · Leaflet · Recharts"]
+    end
+    subgraph A["⚙️ API"]
+        a1["Express 4 (TypeScript) · Firebase Cloud Functions<br/>Zod · JWT + httpOnly cookie · bcrypt · Helmet · rate-limit · node-cron"]
+    end
+    subgraph D["🗄️ Data"]
+        d1["PostgreSQL 16 · Prisma 5 / 6 · Supabase · Firestore<br/>Row-Level Security · AES-256-GCM PII · audit logs · ledgers + state machines"]
+    end
+    subgraph L["🤖 AI Layer"]
+        l1["Provider abstraction + fallback chain<br/>Groq · Claude · GPT-5.5 · Gemini · DeepSeek · Pinecone RAG"]
+    end
+    C -->|"REST + WebSocket · Socket.IO"| A
+    A -->|"Prisma / Firebase SDK"| D
+    A -->|"grounded prompts"| L
+    L -.->|"streamed tokens"| C
 ```
 
-**Pola arsitektur yang sering saya pakai:**
+### Multi-Provider AI Fallback (RAG-grounded)
 
-- 🧱 **Monolith TypeScript** (Express + Vite SSR-middleware) untuk produk solo/tim kecil
-- 🐳 **Docker Compose** untuk reproducible local + deployable VPS
-- 🔌 **Provider abstraction** untuk LLM — _tidak vendor-lock_, ada fallback chain
-- 🛡️ **Guardrail-first AI** — RAG dengan retrieval keyword/vector sebelum hit LLM
-- 🎨 **Design tokens** + Tailwind v4 + custom CSS variables untuk konsistensi visual
-
----
-
-## 🎯 Domain Expertise
-
-| Domain                 | Pengalaman                                                                |
-| ---------------------- | ------------------------------------------------------------------------- |
-| 🎓 **EdTech**          | Online assessment, anti-cheat telemetry, AI question generation           |
-| 📚 **Digital Library** | RAG, citation engine, multi-format reader (PDF/EPUB/MP3/CBZ), offline PWA |
-| 🌾 **AgriTech / GIS**  | Multispectral analysis, Leaflet GIS, sector diagnostics                   |
-| 🎫 **Campus SaaS**     | RBAC, QR sessions, attendance analytics, bulk data ingestion              |
-| 🎨 **Editorial Web**   | Cinematic UX, WebGL, headless CMS, motion-driven storytelling             |
+```mermaid
+flowchart LR
+    Q(["🔎 User query"]) --> RAG["RAG grounding<br/>keyword · Pinecone"]
+    RAG --> P["⚡ Groq · primary"]
+    P -->|success| OUT(["✅ Grounded, streamed answer"])
+    P -.->|on failure| F1["Claude"]
+    F1 -.->|on failure| F2["GPT-5.5"]
+    F2 -.->|on failure| F3["Gemini"]
+    F3 -.->|on failure| F4["DeepSeek"]
+    F1 --> OUT
+    F2 --> OUT
+    F3 --> OUT
+    F4 --> OUT
+```
 
 ---
 
-## 📊 Stats Singkat
+## 📊 By the Numbers
 
 <div align="center">
 
-| Metric                         | Count                                               |
-| ------------------------------ | --------------------------------------------------- |
-| Produk full-stack di portfolio | **5** project induk · **11** repo sub-project       |
-| LLM provider terintegrasi      | **5** (Groq · Claude · GPT-4 · Gemini · DeepSeek)   |
-| Stack utama                    | TypeScript · React · Node · Postgres · Prisma       |
-| Pola backend                   | Monolith TS · Next.js SSR · PHP MVC · Firebase BaaS |
+| Metric | Count |
+| --- | --- |
+| Production full-stack products | **7** across **7** domains |
+| LLM providers integrated (with fallback) | **5** — Groq · Claude · GPT-4 · Gemini · DeepSeek |
+| Primary data layers | PostgreSQL · Supabase · Firestore · Pinecone |
+| Default language | **TypeScript**, end-to-end |
+
+**Domains shipped:** EdTech · FinTech · AgriTech / GIS · Marketplace & Escrow · AI / RAG Knowledge · Campus SaaS · Creative / WebGL
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hiabadi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiabadi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -222,12 +195,12 @@ Keduanya: Vercel deploy · Supabase Postgres + Auth + Storage + Realtime · live
 
 <div align="center">
 
-### 📬 Mari Berkolaborasi
+### 📬 Let's Build Something
 
-Punya ide produk yang butuh **AI grounding**, **arsitektur full-stack**, atau **UX editorial**?
+Have a product idea that needs **grounded AI**, **solid full-stack architecture**, or **editorial UX**?
 
 **[haris.emailtugas@gmail.com](mailto:haris.emailtugas@gmail.com)**
 
-<sub><i>README ini di-generate dari struktur folder kerja lokal — semua proyek di atas adalah implementasi nyata, bukan demo.</i></sub>
+<sub><i>Every project above is a real implementation — not a demo or template.</i></sub>
 
 </div>
